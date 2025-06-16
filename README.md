@@ -1,5 +1,5 @@
 
-## UC Berkeley Module17 Comparing Classifiers By Kelly Lieu
+## UC Berkeley Module17 Comparing Classifiers
  OVERVIEW---
  In this practical application, our goal is to compare the performance of the classifiers we encountered in our class such as, K Nearest Neighbor (KNN), Logistic Regression, Decision Trees, and Support Vector Machines (SVM). We will utilize a dataset related to marketing bank products over the telephone.
  
